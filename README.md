@@ -19,9 +19,9 @@
 ## Setup Instructions
 1. Clone this repository:
 2. Navigate to the project directory:
-3. Ensure Node.js is installed. Run the script using:
+3. Open `index.html` file or run command below in the terminal:
 ```bash
-  node test.js
+  node main.js
 ```
   
 ## Example Usage
